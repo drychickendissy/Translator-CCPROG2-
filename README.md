@@ -219,7 +219,7 @@ Any form of cheating, plagiarism, or unauthorized collaboration results in:
 
 
 
-1.) Milestone 1 : February 28 [x]
+1.) Milestone 1 : February 28
     
     a. Menu options and transitions
     b. Preliminary outline of functions to be created
@@ -227,7 +227,7 @@ Any form of cheating, plagiarism, or unauthorized collaboration results in:
     d. Removal of symbols
     e. Declaration of Data Structure needed
 
-2.) Milestone 2: March 7 [x]
+2.) Milestone 2: March 7
     
     a. Add Entry
     b. Add Translations
@@ -236,7 +236,7 @@ Any form of cheating, plagiarism, or unauthorized collaboration results in:
     e. Search Word
     f. Search Translation
 
-3.) Milestone 3: March 14 [x]
+3.) Milestone 3: March 14
     
     a. Delete Entry
     b. Delete Translation
@@ -244,13 +244,13 @@ Any form of cheating, plagiarism, or unauthorized collaboration results in:
     +For this feature, do not clear the contents of the array of entries upon exit from Manage Data menu IF you have
     not implemented the import and export yet.
 
-4.) Milestone 4: March 21 [x]
+4.) Milestone 4: March 21
     
     a. Export
     b. Import
     c. Translate Text File
 
-5.) Milestone 5: March 28 [x]
+5.) Milestone 5: March 28
     
     a. Integrated testing (as a whole, not per function/feature)
     b. Collect and verify versions of code and documents that will be uploaded
