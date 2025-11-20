@@ -1,8 +1,8 @@
-# 📝 CCPROG2 Machine Project  
+# CCPROG2 Machine Project  
 ## Simple Translator (Natural Language Processing Intro)
 
-### 🏫 College of Computer Studies — De La Salle University  
-### 📚 Course: CCPROG2 — Programming II
+### College of Computer Studies — De La Salle University  
+### Course: CCPROG2 — Programming II
 
 ---
 
@@ -27,11 +27,11 @@ This project includes:
 
 ---
 
-# 📂 Features Overview
+# Features Overview
 
-## 🔧 Manage Data Menu
+## Manage Data Menu
 
-### ➕ Add Entry
+### Add Entry
 - Input a **language–translation** pair
 - If entries with that pair exist → show them
 - User is asked if they want to create a **new entry**
@@ -39,7 +39,7 @@ This project includes:
 
 ---
 
-### ➕ Add Translations
+### Add Translations
 - Input a **language–translation** pair
 - If no entry exists → prompt user to use *Add Entry*
 - If one entry exists → allow adding pairs to that entry
@@ -48,7 +48,7 @@ This project includes:
 
 ---
 
-### ❌ Delete Entry
+### Delete Entry
 - Display all entries
 - Choose entry number to delete
 - Invalid inputs give error messages
@@ -56,7 +56,7 @@ This project includes:
 
 ---
 
-### ❌ Delete Translation
+### Delete Translation
 - Select an entry
 - Select which translation pair to delete
 - If entry has only **one pair**, deleting it removes the entire entry
@@ -64,7 +64,7 @@ This project includes:
 
 ---
 
-### 📄 Display All Entries
+### Display All Entries
 - Show entries **one at a time**
 - Pairs sorted alphabetically by language (ASCII)
 - Entries sorted by presence of **English**
@@ -75,20 +75,20 @@ This project includes:
 
 ---
 
-### 🔍 Search Word
+### Search Word
 - Input a translation (e.g., *mahal*)
 - Shows all entries containing that word
 - Navigation same as *Display All Entries*
 
 ---
 
-### 🔍 Search Translation
+### Search Translation
 - Input **language + translation**
 - Shows all entries containing that exact pair
 
 ---
 
-### 📤 Export
+### Export
 - Save all entries to a text file
 - File format must follow exact required layout
 - Filename must be ≤ **30 characters** (including extension)
@@ -96,7 +96,7 @@ This project includes:
 
 ---
 
-### 📥 Import
+### Import
 - Load entries from exported text file
 - For each entry:
   - User decides to **add** or **skip**
@@ -104,19 +104,19 @@ This project includes:
 
 ---
 
-### 🚪 Exit Manage Data
+### Exit Manage Data
 - Returns to Main Menu
 - All unsaved data is cleared  
 
 ---
 
-# 🌐 Translate Menu
+# Translate Menu
 
 Before translation begins, the user loads a file (similar to Import).
 
 ---
 
-## 🗣 Translate Text Input
+## Translate Text Input
 - User provides:
   - Source language
   - Text (≤150 chars)
@@ -130,7 +130,7 @@ Before translation begins, the user loads a file (similar to Import).
 
 ---
 
-## 📁 Translate Text File
+## Translate Text File
 - User provides:
   - Source language
   - Input filename
@@ -144,13 +144,13 @@ Before translation begins, the user loads a file (similar to Import).
 
 ---
 
-## 🚪 Exit Translate Menu
+## Exit Translate Menu
 - Clears loaded translation data
 - Returns to Main Menu
 
 ---
 
-# 📌 Restrictions (IMPORTANT)
+# Restrictions (IMPORTANT)
 
 You are **NOT allowed** to use:
 
@@ -169,7 +169,7 @@ Program must follow:
 
 ---
 
-# 🧪 Testing & Submission Requirements
+# Testing & Submission Requirements
 
 ### Must Submit:
 - ✔ Source code  
@@ -197,7 +197,7 @@ Program must follow:
 
 ---
 
-# ⭐ Bonus Features (Optional)
+# Bonus Features (Optional)
 Up to **+10 points** for enhancements such as:
 
 - Multi-word translations  
@@ -206,7 +206,7 @@ Up to **+10 points** for enhancements such as:
 
 ---
 
-# 🎓 Academic Integrity Notice
+# Academic Integrity Notice
 Any form of cheating, plagiarism, or unauthorized collaboration results in:
 
 ⚠ **0.0 for the course**  
@@ -214,12 +214,12 @@ Any form of cheating, plagiarism, or unauthorized collaboration results in:
 
 ---
 
-# 📘 End of README
+# End of README
 
 
 
 
-1.) Milestone 1 : February 28
+1.) Milestone 1 : February 28 ✔
     
     a. Menu options and transitions
     b. Preliminary outline of functions to be created
@@ -227,7 +227,7 @@ Any form of cheating, plagiarism, or unauthorized collaboration results in:
     d. Removal of symbols
     e. Declaration of Data Structure needed
 
-2.) Milestone 2: March 7
+2.) Milestone 2: March 7 ✔
     
     a. Add Entry
     b. Add Translations
@@ -236,7 +236,7 @@ Any form of cheating, plagiarism, or unauthorized collaboration results in:
     e. Search Word
     f. Search Translation
 
-3.) Milestone 3: March 14
+3.) Milestone 3: March 14 ✔
     
     a. Delete Entry
     b. Delete Translation
@@ -244,13 +244,13 @@ Any form of cheating, plagiarism, or unauthorized collaboration results in:
     +For this feature, do not clear the contents of the array of entries upon exit from Manage Data menu IF you have
     not implemented the import and export yet.
 
-4.) Milestone 4: March 21
+4.) Milestone 4: March 21 ✔
     
     a. Export
     b. Import
     c. Translate Text File
 
-5.) Milestone 5: March 28
+5.) Milestone 5: March 28 ✔
     
     a. Integrated testing (as a whole, not per function/feature)
     b. Collect and verify versions of code and documents that will be uploaded
