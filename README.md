@@ -3,6 +3,7 @@
 
 ### College of Computer Studies — De La Salle University  
 ### Course: CCPROG2 — Programming II
+Contributors: Bilanes Edmund Kendrick D. | Lim Un, SPencer Caleb S. 
 
 ---
 
